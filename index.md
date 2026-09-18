@@ -207,10 +207,11 @@ assurances have been checked by a professional and which have not.
 
 ## Contact
 
-Questions about this policy, or about data on a specific device, go to the support contact listed on
-this app's App Store page, which is the contact of record. The app's source repository — the same
-repository that publishes this page — also accepts public issues, which is the better route if you
-want the answer to be visible to other students and their parents.
+Questions about this policy, or about data on a specific device, go to `fersoftnl@gmail.com`. That
+address is the contact of record, and it is the same support contact listed on this app's App Store
+page.
+
+The app's source repository is private, so it is not a route for questions — email is.
 
 If you want data on a device erased and do not want to wait for a reply: unlink inside the app, or
 delete the app. Both are described under "How long it is kept, and how to erase it" above, and
